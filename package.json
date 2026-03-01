@@ -1,0 +1,16 @@
+{
+  "name": "infinity-mathematics-academy",
+  "version": "1.0.0",
+  "description": "Premium Mathematics Tuition Institute Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1"
+  }
+}
